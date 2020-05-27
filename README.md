@@ -8,4 +8,4 @@ Invariant features were extracted from the latent space using Average and Gram P
 
 Latent space was used to train a neural network which showed an improved classification quality.
 
-Description is given in the presentation attached.
+Description and results of the project are given in the presentation attached.
