@@ -1,4 +1,4 @@
-# Extarct-invariant-features-using-equivariant-autoencoder
+# Extract-invariant-features-using-equivariant-autoencoder
 
 While CNN makes prediction invariant to small translations, it is necessary to have invariances to transformations like rotations and reflections.
 
